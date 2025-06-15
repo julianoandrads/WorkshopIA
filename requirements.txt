@@ -1,0 +1,7 @@
+langchain
+groq
+langchain-groq
+pydantic
+typing
+python-dotenv
+field
